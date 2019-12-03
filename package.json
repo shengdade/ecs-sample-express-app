@@ -1,0 +1,10 @@
+{
+  "name": "ecs-sample-express-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "dade",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
